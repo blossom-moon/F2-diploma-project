@@ -1,0 +1,19 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Build
+target/
+build/
+out/
+node_modules/
+dist/
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
